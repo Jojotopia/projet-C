@@ -1,6 +1,10 @@
 Rules project
 ==============
 
+Description
+------------
+Rules project is a software capable of applying a rules file to an initial fact base file using a library allowing deduction by a forward chaining system
+
 Installation
 ------------
 
